@@ -1,0 +1,17 @@
+file_format: "1"
+id: sofle997
+name: Sofle997
+type: shield
+url: https://github.com/dp997/sofle_config
+requires: [pro_micro]
+exposes: [i2c_oled]
+features:
+  - keys
+  - display
+  - encoder
+  - underglow
+  - studio
+siblings:
+  - sofle997_left
+  - sofle997_right
+  - sofle997_dongle
